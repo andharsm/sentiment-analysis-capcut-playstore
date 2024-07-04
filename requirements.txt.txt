@@ -1,0 +1,10 @@
+google-play-scraper
+pandas
+matplotlib
+wordcloud
+nltk
+joblib
+tensorflow
+scikit-learn
+sastrawi
+googletrans==4.0.0-rc1
